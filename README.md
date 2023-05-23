@@ -21,7 +21,7 @@
 
 ## ✏ 기획 & 설계
 - 도메인 모델링
-![도메인 모델링](https://github.com/xiu0327/2023-pet-vote/assets/78461009/c033f91c-8f0d-43e2-865f-05d8bab80d17)
+![도메인 모델링](https://github.com/xiu0327/2023-pet-vote/assets/78461009/6399a073-66d6-450e-a525-58a2363dbe68)
 
 - 서버 설계
 ![서버 설계](https://github.com/xiu0327/2023-pet-vote/assets/78461009/c97bd881-b05a-410d-8a3b-e93c4f8d4c11)
