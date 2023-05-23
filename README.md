@@ -24,7 +24,7 @@
 ![도메인 모델링](https://github.com/xiu0327/2023-pet-vote/assets/78461009/6399a073-66d6-450e-a525-58a2363dbe68)
 
 - 서버 설계
-![서버 설계](https://github.com/xiu0327/2023-pet-vote/assets/78461009/c97bd881-b05a-410d-8a3b-e93c4f8d4c11)
+![서버 설계](https://github.com/xiu0327/2023-pet-vote/assets/78461009/b88f5f37-bda0-4013-9972-1336bc21bd0f)
 
 ## 💡 Issues
 
