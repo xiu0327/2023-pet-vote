@@ -1,0 +1,16 @@
+spring:
+  redis:
+    cache:
+      host: localhost
+      port: 6372
+      timeout: 300
+  kafka:
+    bootstrap-servers: 127.0.0.1:9092
+  consumer:
+    bootstrap-servers: 127.0.0.1:9092
+    group-id: vote
+    enable-auto-commit: true
+    auto-offset-reset: latest
+s3:
+  domain: https://animal-vote.s3.ap-northeast-2.amazonaws.com
+  folder: /animal/
