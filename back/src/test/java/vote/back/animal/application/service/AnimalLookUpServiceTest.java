@@ -22,8 +22,7 @@ class AnimalLookUpServiceTest {
     @DisplayName("동물 상세 조회")
     void findDetails() {
         Long animalId = 11L;
-        String ip = "127.0.1";
-        AnimalDetailsDomainDto animal = findAnimalDetailUseCase.findDetails(animalId, ip);
+        AnimalDetailsDomainDto animal = findAnimalDetailUseCase.findDetails(animalId);
         assertEquals("나비", animal.getName());
         assertNotNull(animal);
         log.info("animal = {}", animal);

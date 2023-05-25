@@ -10,9 +10,8 @@ import lombok.ToString;
 public class AnimalDetailsDomainDto {
     private Long animalId;
     private String name;
-    private String count;
+    private Integer count;
     private String imageName;
     private String description;
     private String details;
-    private Boolean isVoted;
 }

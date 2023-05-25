@@ -13,7 +13,7 @@ public class AnimalLookUpService implements FindAnimalDetailUseCase {
     private final FindAnimalPort findAnimalPort;
 
     @Override
-    public AnimalDetailsDomainDto findDetails(Long animalId, String ip) {
-        return findAnimalPort.find(animalId, ip);
+    public AnimalDetailsDomainDto findDetails(Long animalId) {
+        return findAnimalPort.find(animalId);
     }
 }
